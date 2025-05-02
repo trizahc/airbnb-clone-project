@@ -38,3 +38,22 @@ By completing this project, you will:
 
  Importance of User-Friendly Design
 A user-friendly design makes the app easier to use, which leads to higher customer satisfaction and more completed bookings. Good UI/UX reduces confusion, supports quick navigation, and improves trust in the platform. A mobile-responsive, intuitive interface is essential for a positive user experience.
+ 18. More UI/UX Design Planning
+
+ Figma Design Specifications
+
+Color Styles:
+- Primary Color: #FF5A5F (Red - used for buttons and highlights)
+- Secondary Color: #008489 (Teal - for supporting UI elements)
+- Background Color: #FFFFFF (White - clean background)
+- Text Color: #222222 (Main text)
+- Secondary Text: #717171 (Subtle gray for less important text)
+
+Typography:
+- Primary Font: Circular
+  - Headings: Bold (700), Font size: 24px to 32px
+  - Body Text: Medium (500), Font size: 16px
+  - Secondary Text: Book (400), Font size: 14px
+
+ Importance of Identifying Design Properties
+Understanding design properties such as color schemes and typography ensures that the UI remains consistent across all pages. It helps developers implement designs that match the mockups and gives users a polished, professional experience. When developers follow Figma styles closely, the product looks unified, accessible, and visually appealing.
