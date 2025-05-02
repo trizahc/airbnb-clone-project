@@ -38,7 +38,7 @@ By completing this project, you will:
 
  Importance of User-Friendly Design
 A user-friendly design makes the app easier to use, which leads to higher customer satisfaction and more completed bookings. Good UI/UX reduces confusion, supports quick navigation, and improves trust in the platform. A mobile-responsive, intuitive interface is essential for a positive user experience.
- 18. More UI/UX Design Planning
+  More UI/UX Design Planning
 
  Figma Design Specifications
 
@@ -57,3 +57,20 @@ Typography:
 
  Importance of Identifying Design Properties
 Understanding design properties such as color schemes and typography ensures that the UI remains consistent across all pages. It helps developers implement designs that match the mockups and gives users a polished, professional experience. When developers follow Figma styles closely, the product looks unified, accessible, and visually appealing.
+ Project Roles and Responsibilities
+
+ Team Roles and Their Responsibilities
+
+| Role              | Responsibilities                                                                 |
+|-------------------|----------------------------------------------------------------------------------|
+| Project Manager     | Oversees project timeline, coordinates tasks, ensures milestones are met              |
+| Frontend Developers | Develop the user interface using React, ensure responsiveness and accessibility      |
+|Backend Developers  | Build server APIs, handle database interactions, manage authentication and logic     |
+| Designers| Create Figma mockups, define UI style guide, ensure UX consistency                   |
+| QA/Testers          | Write and execute test cases, report bugs, validate functionality                    |
+| DevOps Engineers    | Set up deployment pipeline, monitor performance, manage CI/CD                        |
+| Product Owner       | Defines the product vision and requirements, represents stakeholder interests        |
+| Scrum Master        | Facilitates Agile ceremonies (standups, sprint planning), removes team blockers      |
+
+ How These Roles Contribute to Success
+Clearly defined roles improve collaboration and workflow. Everyone knows what’s expected of them, reducing confusion and delays. This structure also supports Agile practices like sprints and team retrospectives. Together, these roles help deliver a high-quality, on-time product.
