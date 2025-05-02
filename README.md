@@ -28,7 +28,7 @@ By completing this project, you will:
 - Secure checkout process.
 - User registration and login (authentication).
 
- Primary Pages
+### Primary Pages
 
 | Page Name               | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -71,21 +71,20 @@ Understanding design properties such as color schemes and typography ensures tha
 | DevOps Engineers    | Set up deployment pipeline, monitor performance, manage CI/CD                        |
 | Product Owner       | Defines the product vision and requirements, represents stakeholder interests        |
 | Scrum Master        | Facilitates Agile ceremonies (standups, sprint planning), removes team blockers      |
-  UI Component Patterns
+ ### UI Component Patterns
 
  Planned Reusable UI Components
-
-1.Navbar
+#### Navbar
    - Contains logo, search bar, user navigation, and responsive hamburger menu.
    - Displays links to Home, Bookings, Login/Signup, etc.
    - Stays consistent across all pages.
 
-2. Property Card
+#### Property Card
    - Shows property image, price, rating, location, and brief details.
    - Includes a favorite/heart button.
    - Used in the property listing grid.
 
-3. Footer
+#### Footer
    - Displays site links (e.g., About, Contact, FAQs).
    - Includes company information and social media links.
    - Copyright section.
