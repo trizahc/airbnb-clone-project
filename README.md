@@ -71,6 +71,24 @@ Understanding design properties such as color schemes and typography ensures tha
 | DevOps Engineers    | Set up deployment pipeline, monitor performance, manage CI/CD                        |
 | Product Owner       | Defines the product vision and requirements, represents stakeholder interests        |
 | Scrum Master        | Facilitates Agile ceremonies (standups, sprint planning), removes team blockers      |
+  UI Component Patterns
 
- How These Roles Contribute to Success
-Clearly defined roles improve collaboration and workflow. Everyone knows what’s expected of them, reducing confusion and delays. This structure also supports Agile practices like sprints and team retrospectives. Together, these roles help deliver a high-quality, on-time product.
+ Planned Reusable UI Components
+
+1.Navbar
+   - Contains logo, search bar, user navigation, and responsive hamburger menu.
+   - Displays links to Home, Bookings, Login/Signup, etc.
+   - Stays consistent across all pages.
+
+2. Property Card
+   - Shows property image, price, rating, location, and brief details.
+   - Includes a favorite/heart button.
+   - Used in the property listing grid.
+
+3. Footer
+   - Displays site links (e.g., About, Contact, FAQs).
+   - Includes company information and social media links.
+   - Copyright section.
+
+ Why UI Component Planning Matters
+Planning reusable components early helps ensure design consistency and saves development time. It also allows multiple developers to work on components independently without conflicts. Reusability improves maintainability and scalability as the project grows.
