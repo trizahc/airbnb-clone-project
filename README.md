@@ -89,5 +89,5 @@ Understanding design properties such as color schemes and typography ensures tha
    - Includes company information and social media links.
    - Copyright section.
 
- ## jWhy UI Component Planning Matters
+ ## Why UI Component Planning Matters
 Planning reusable components early helps ensure design consistency and saves development time. It also allows multiple developers to work on components independently without conflicts. Reusability improves maintainability and scalability as the project grows.
